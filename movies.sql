@@ -3,7 +3,7 @@ use `netland`;
 -- CREATE TABLE `films` (
 -- id MEDIUMINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 -- titel VARCHAR(100) NOT NULL,
--- duur int(5) NOT NULL,
+-- duur varchar(255) NOT NULL,
 -- datum_uitkomst DATE,
 -- herkomst VARCHAR(100) NOT NULL,
 -- omschrijving VARCHAR(100) NOT NULL,
